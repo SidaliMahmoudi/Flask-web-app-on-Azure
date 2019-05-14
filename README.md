@@ -1,0 +1,1 @@
+this repo is just a test repo to deploy a simple flask web app on azure web app
